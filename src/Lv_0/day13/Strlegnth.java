@@ -1,6 +1,6 @@
 package Lv_0.day13;
 
-public class strlegnth {
+public class Strlegnth {
     public int[] solution(String[] strlist) {
         //배열 원소의 길이
         int[] answer = new int[strlist.length];
